@@ -8,9 +8,9 @@ Wer das liest ist doof.
 
 ### Modpack Versionen:
 
-*   [0.3 Aktuelle](/assets/mydoc.pdf)
-*   [0.2](/assets/mydoc.pdf)
-*   [0.1](/assets/mydoc.pdf)
+*   [0.3 Aktuelle](/assets/versions/MemePack-0.3)
+*   [0.2](/assets/versions/MemePack-0.2)
+*   [0.1](/assets/versions/MemePack-0.1)
 
 ### Small image
 
