@@ -2,8 +2,9 @@
 # MemePack Downloads
 
 Changes made to the worst modpack ever created.
+**Attention, Waypoints and the map will be lost if not saved!**
 
-## [0.3](/assets/versions/MemePack-0.3) 2022-07-29 
+## [Version 0.3](/assets/versions/MemePack-0.3.zip) 2022-07-29 
 
 ### Added
 
@@ -25,7 +26,7 @@ Changes made to the worst modpack ever created.
 - The Lost Cities 5.3.7
 - Valhelsia Core 0.4.0
 
-## [0.2] - 2022-07-17
+## [Version 0.2](/assets/versions/MemePack-0.2.zip) - 2022-07-17
   
 ### Added
 
@@ -44,6 +45,6 @@ Changes made to the worst modpack ever created.
   
 ### Fixed
 
-## [0.1] - 2022-07-11
+## [Version 0.1] - 2022-07-11
 
 - Added all mods kek

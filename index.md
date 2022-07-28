@@ -6,11 +6,11 @@ Wer das liest ist doof.
 
 # Hier gibts ordentlich Abfall
 
-### Projects
+## Projects
 
 *   [Meme Pack](./MemePack.md)
 
 
-### Small image
+### Der Detlef sagt hallo
 
-![Detlef](https://upload.wikimedia.org/wikipedia/commons/2/24/2018-01-08-Detlef_Soost-hart_aber_fair-6067.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/2018-01-08-Detlef_Soost-hart_aber_fair-6067.jpg" alt="drawing" width="200" height="200"/>
