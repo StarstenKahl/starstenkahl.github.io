@@ -1,1 +1,5 @@
+title: Mülleimer
+#logo: /assets/img/logo.png
+description: Ganz viel Abfall hier
+show_downloads: true
 theme: jekyll-theme-minimal
