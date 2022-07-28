@@ -6,11 +6,10 @@ Wer das liest ist doof.
 
 # Hier gibts ordentlich Abfall
 
-### Modpack Versionen:
+### Projects
 
-*   [0.3 Aktuelle](/assets/versions/MemePack-0.3)
-*   [0.2](/assets/versions/MemePack-0.2)
-*   [0.1](/assets/versions/MemePack-0.1)
+*   [Meme Pack](./MemePack.md)
+
 
 ### Small image
 
