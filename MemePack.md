@@ -6,11 +6,10 @@ Changes made to the worst modpack ever created.
 
 ## [Version 0.4](/assets/versions/MemePack-0.4.zip) 2022-07-30
 
-Ja nur ein Mod ;)
-
 ### Added
 
 - Deep resonance
+- RfTools
 
 ## [Version 0.3](/assets/versions/MemePack-0.3.zip) 2022-07-29 
 
